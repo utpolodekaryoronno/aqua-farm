@@ -1,0 +1,23 @@
+@media all and (max-width:991px){
+    .navbar-collapse {
+        flex-basis: 100%;
+        background: #000000e5;
+        flex-grow: 1;
+        align-items: center;
+        padding: 30px 0px;
+    }
+    .nav-item {
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .sign-up-btn {
+        max-width: 150px;
+        width: 100%;
+        margin: auto;
+        display: block;
+        text-align: center;
+    }
+    .testi-item{
+        margin: 0px;
+    }
+}
